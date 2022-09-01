@@ -29,26 +29,27 @@ description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://DanteMillerDS.github.i'
 
 github:
-  username: github_username             # change to your github username
+  username: dantemillerds             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: dmill666            # change to your twitter username
+
+linkedin:
+  username: dante-miller-1a9396228
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Dante Miller
+  email: dm85@rice.edu          # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/username # change to your linkedin homepage
 
 google_site_verification:               # fill in to your verification string
 
@@ -83,7 +84,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: image.jpeg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
