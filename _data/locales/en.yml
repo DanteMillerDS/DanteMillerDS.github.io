@@ -17,10 +17,10 @@ tabs:
   resume: Resume
 
 # the text displayed in the search bar & search results
-search:
-  hint: search
-  cancel: Cancel
-  no_results: Oops! No results found.
+#search:
+#  hint: search
+#  cancel: Cancel
+#  no_results: Oops! No results found.
 
 panel:
   lastmod: Recently Updated
