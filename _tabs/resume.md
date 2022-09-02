@@ -5,7 +5,7 @@ order: 4
 ---
 
 <style>
-.form-control, .fas.fa-search.fa-fw{
+.form-control, .fas.fa-search.fa-fw, .align-items-center{
     visibility:hidden;
     display:none;
 }
