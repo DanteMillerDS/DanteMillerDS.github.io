@@ -5,4 +5,6 @@ order: 4
 ---
 
 
-<a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
+<object height="1040" data="/RESUME.pdf" type="application/pdf" width="960">
+<a href="/RESUME.pdf" >Do not have the proper PDF plugin so download to view resume</a>
+</object>
