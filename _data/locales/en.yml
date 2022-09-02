@@ -11,9 +11,9 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
-  categories: Categories
-  tags: Tags
-  archives: Archives
+  #categories: Categories
+  about: About me
+  #archives: Archives
   resume: Resume
 
 # the text displayed in the search bar & search results

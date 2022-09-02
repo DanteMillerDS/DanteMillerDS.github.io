@@ -18,8 +18,8 @@ bootstrap-toc:
 fontawesome:
   css: /assets/lib/fontawesome-free-5.15.4/css/all.min.css
 
-search:
-  js: /assets/lib/simple-jekyll-search-1.10.0/simple-jekyll-search.min.js
+#search:
+ # js: /assets/lib/simple-jekyll-search-1.10.0/simple-jekyll-search.min.js
 
 mermaid:
   js: /assets/lib/mermaid-8.13.10/mermaid.min.js
