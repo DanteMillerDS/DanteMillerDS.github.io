@@ -10,17 +10,18 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  #home: Home
+  home: Home
   #categories: Categories
   about: About me
   #archives: Archives
   resume: Resume
 
 # the text displayed in the search bar & search results
-#search:
-#  hint: search
-#  cancel: Cancel
-#  no_results: Oops! No results found.
+search:
+  hint: search
+  cancel: Cancel
+  no_results: Oops! No results found.
+  
 
 panel:
   lastmod: Recently Updated
